@@ -1,4 +1,7 @@
-### Hello there 👋
+### Hello there ! 👋
+
+- 📫 Reach me on Discord: Yoann#6945
+
 <!-- 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoannDeb&theme=monokai) -->
 
