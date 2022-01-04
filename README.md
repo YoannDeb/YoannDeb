@@ -1,6 +1,6 @@
 ### Hello there ! 👋
 
-- 📫 Reach me on Discord:  [Yoann#6945](https://discord.com/users/233360175057076224/)
+- 📫 You can reach me on Discord:  [Yoann#6945](https://discord.com/users/233360175057076224/)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoannDeb&theme=monokai)
