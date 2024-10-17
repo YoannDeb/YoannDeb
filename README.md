@@ -1,11 +1,13 @@
 ### Hello there ! 👋
 
+<!--
+
 - 📫 You can reach me on Discord:  [Yoann#6945](https://discord.com/users/233360175057076224/)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoannDeb&theme=monokai)
 
-<!--
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height='140' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoanndeb&layout=compact&langs_count=6&theme=gruvbox" />
 </a>
